@@ -1,0 +1,43 @@
+<portal id="user-portal">
+  <component id="login">
+    <parameter-list>
+      <parameter id="username" validate="true"/>
+      <parameter id="password" validate="true"/>
+    </parameter-list>
+  </component>
+  <screens>
+    <screen>
+      <parameter id="screen1"/>
+      <component id="product-details-page">
+        <!-- Product details page component here -->
+      </component>
+	  <component id="advanced-search-page">
+        <!-- Advanced search page component here -->
+      </component>
+    </screen>
+    <screen>
+      <parameter id="screen2"/>
+      <component id="product-details-page">
+        <!-- Product details page component here -->
+      </component>
+	  <component id="advanced-search-page">
+        <!-- Advanced search page component here -->
+      </component>
+    </screen>
+    <screen>
+      <parameter id="screen3"/>
+      <component id="product-details-page">
+        <!-- Product details page component here -->
+      </component>
+	  <component id="advanced-search-page">
+        <!-- Advanced search page component here -->
+      </component>
+    </screen>
+  </screens>
+  <styles>
+    <parameter-list>
+      <parameter id="background-color" value="orange"/>
+      <parameter id="font-color" value="white"/>
+    </parameter-list>
+  </styles>
+</portal>

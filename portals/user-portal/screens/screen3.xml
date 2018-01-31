@@ -1,0 +1,9 @@
+<screen>
+  <parameter id="screen3"/>
+  <component id="product-details-page">
+    <!-- Product details page component here -->
+  </component>
+  <component id="advanced-search-page">
+    <!-- Advanced search page component here -->
+  </component>
+</screen>

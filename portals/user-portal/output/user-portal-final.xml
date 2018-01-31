@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<screen>
+  <parameter id="screen1"/>
+  <component id="product-details-page"/>
+  <component id="advanced-search-page"/>
+  <parameter id="screen2"/>
+  <component id="product-details-page"/>
+  <component id="advanced-search-page"/>
+  <parameter id="screen3"/>
+  <component id="product-details-page"/>
+  <component id="advanced-search-page"/>
+</screen>

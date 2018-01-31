@@ -1,0 +1,17 @@
+<portal id="user-portal">
+  <component id="login">
+    <parameter-list>
+      <parameter id="username" validate="true"/>
+      <parameter id="password" validate="true"/>
+    </parameter-list>
+  </component>
+  <screens>
+  
+  </screens>
+  <styles>
+    <parameter-list>
+      <parameter id="background-color" value="orange"/>
+      <parameter id="font-color" value="white"/>
+    </parameter-list>
+  </styles>
+</portal>
